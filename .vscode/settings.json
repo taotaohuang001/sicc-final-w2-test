@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8391b11e-1546-4855-82d4-05803f61e0cb/AppServices/subscriptions/8391b11e-1546-4855-82d4-05803f61e0cb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/th-sicc-test-w2",
+    "appService.deploySubpath": "."
+}
